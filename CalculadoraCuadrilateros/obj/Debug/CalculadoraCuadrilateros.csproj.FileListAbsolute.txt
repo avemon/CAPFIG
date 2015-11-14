@@ -1,0 +1,6 @@
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CAPFIG\CalculadoraCuadrilateros\bin\Debug\CalculadoraCuadrilateros.dll.config
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CAPFIG\CalculadoraCuadrilateros\bin\Debug\CalculadoraCuadrilateros.dll
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CAPFIG\CalculadoraCuadrilateros\bin\Debug\CalculadoraCuadrilateros.pdb
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CAPFIG\CalculadoraCuadrilateros\obj\Debug\CalculadoraCuadrilateros.csprojResolveAssemblyReference.cache
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CAPFIG\CalculadoraCuadrilateros\obj\Debug\CalculadoraCuadrilateros.dll
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CAPFIG\CalculadoraCuadrilateros\obj\Debug\CalculadoraCuadrilateros.pdb

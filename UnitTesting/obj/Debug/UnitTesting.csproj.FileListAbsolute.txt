@@ -1,0 +1,8 @@
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CAPFIG\UnitTesting\bin\Debug\UnitTesting.pdb
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CAPFIG\UnitTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CAPFIG\UnitTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CAPFIG\UnitTesting\obj\Debug\UnitTesting.pdb
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CAPFIG\UnitTesting\bin\Debug\UnitTesting.exe
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CAPFIG\UnitTesting\obj\Debug\UnitTesting.exe
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CAPFIG\UnitTesting\bin\Debug\UnitTesting.exe.config
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CAPFIG\UnitTesting\obj\Debug\UnitTesting.csprojResolveAssemblyReference.cache

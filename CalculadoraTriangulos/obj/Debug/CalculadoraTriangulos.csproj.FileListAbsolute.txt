@@ -1,0 +1,11 @@
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CalculadoraTriangulos\bin\Debug\CalculadoraTriangulos.dll.config
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CalculadoraTriangulos\bin\Debug\CalculadoraTriangulos.dll
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CalculadoraTriangulos\bin\Debug\CalculadoraTriangulos.pdb
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CalculadoraTriangulos\obj\Debug\CalculadoraTriangulos.dll
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CalculadoraTriangulos\obj\Debug\CalculadoraTriangulos.pdb
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CAPFIG\CalculadoraTriangulos\bin\Debug\CalculadoraTriangulos.dll.config
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CAPFIG\CalculadoraTriangulos\bin\Debug\CalculadoraTriangulos.dll
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CAPFIG\CalculadoraTriangulos\bin\Debug\CalculadoraTriangulos.pdb
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CAPFIG\CalculadoraTriangulos\obj\Debug\CalculadoraTriangulos.dll
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CAPFIG\CalculadoraTriangulos\obj\Debug\CalculadoraTriangulos.pdb
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CAPFIG\CalculadoraTriangulos\obj\Debug\CalculadoraTriangulos.csprojResolveAssemblyReference.cache

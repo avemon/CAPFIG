@@ -1,0 +1,9 @@
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CAPFIG\Aplicacion\bin\Debug\Aplicacion.exe.config
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CAPFIG\Aplicacion\bin\Debug\Aplicacion.exe
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CAPFIG\Aplicacion\bin\Debug\Aplicacion.pdb
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CAPFIG\Aplicacion\obj\Debug\Aplicacion.csprojResolveAssemblyReference.cache
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CAPFIG\Aplicacion\obj\Debug\Aplicacion.Form1.resources
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CAPFIG\Aplicacion\obj\Debug\Aplicacion.Properties.Resources.resources
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CAPFIG\Aplicacion\obj\Debug\Aplicacion.csproj.GenerateResource.Cache
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CAPFIG\Aplicacion\obj\Debug\Aplicacion.exe
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CAPFIG\Aplicacion\obj\Debug\Aplicacion.pdb

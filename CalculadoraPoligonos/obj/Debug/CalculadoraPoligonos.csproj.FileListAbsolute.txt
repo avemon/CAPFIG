@@ -1,0 +1,5 @@
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CAPFIG\CalculadoraPoligonos\bin\Debug\CalculadoraPoligonos.dll.config
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CAPFIG\CalculadoraPoligonos\bin\Debug\CalculadoraPoligonos.dll
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CAPFIG\CalculadoraPoligonos\bin\Debug\CalculadoraPoligonos.pdb
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CAPFIG\CalculadoraPoligonos\obj\Debug\CalculadoraPoligonos.dll
+C:\Users\alexv\Source\Repos\2015-3-Electiva\CAPFIG\CalculadoraPoligonos\obj\Debug\CalculadoraPoligonos.pdb
